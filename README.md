@@ -17,5 +17,8 @@ backend
 <img src='/image/web_ui.png'>
 <br>
 <img src='/image/alarm.png'>
+<br><br>
 
+Remote monitoring api
+<a href='https://moodle.tuni.fi/mod/url/view.php?id=1376835'>
 
